@@ -16,4 +16,4 @@ PhpMyAdmin databse
 
 
 
-"The code files include comment descriptions on how the source codes work step by step in summary"
+"The code files include comment descriptions on how the source codes works step by step in summary"
