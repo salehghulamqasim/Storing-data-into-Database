@@ -3,7 +3,7 @@ This is a simple repository where i created a website which simply takes a numbe
 
 when the user enters a integer number and hits submit button. The website inserts the data to my database named 'form'.
 
-<img width="1280" alt="Screen Shot 2022-08-08 at 12 22 43 AM" src="https://user-images.githubusercontent.com/100453330/183312372-c42e785c-e7e2-468d-add0-4034493e12e5.png">
+<img width="1102" alt="Screen Shot 2022-08-08 at 12 57 36 AM" src="https://user-images.githubusercontent.com/100453330/183312530-ed4003f6-803c-4034-998a-2af32c871d88.png">
 
 
 i used [method='get'] to show the data in url.
