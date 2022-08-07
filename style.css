@@ -71,11 +71,12 @@
 label{
   font-family: 'Courier New', Courier, monospace;
 }
-input{
-  padding: 15px 15px;
-  border-color:rgb(50, 53, 53) ;
-  border-bottom-left-radius: 0%;
-  border-bottom-right-radius: 40%;
-  border-top-left-radius: 40%;
-  border-style:double;
+
+#bottom {
+  position: absolute;
+  bottom: 0;
+  left:0;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 10px;
+  color: rgb(109, 109, 109);
 }
