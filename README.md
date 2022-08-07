@@ -6,7 +6,8 @@ when the user enters a integer number and hits submit button. The website insert
 <img width="1280" alt="Screen Shot 2022-08-08 at 12 22 43 AM" src="https://user-images.githubusercontent.com/100453330/183312372-c42e785c-e7e2-468d-add0-4034493e12e5.png">
 
 
-i used [method='get'] to show the data in url. 
+i used [method='get'] to show the data in url.
+
 <img width="488" alt="Screen Shot 2022-08-08 at 12 53 37 AM" src="https://user-images.githubusercontent.com/100453330/183312394-fb0cb1ed-fddb-4025-ab22-f295cff9f0d3.png">
 
 PhpMyAdmin databse
