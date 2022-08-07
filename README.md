@@ -13,3 +13,7 @@ i used [method='get'] to show the data in url.
 
 PhpMyAdmin databse
 <img width="1280" alt="Screen Shot 2022-08-08 at 12 54 05 AM" src="https://user-images.githubusercontent.com/100453330/183312412-f52008ed-4b96-42a1-b308-2cb8f729c92d.png">
+
+
+
+"The code files include comment descriptions on how the source codes work step by step in summary"
